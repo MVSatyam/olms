@@ -1,0 +1,24 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.student_card:hover {
+  border-bottom: 5px solid teal;
+}
+.faculty_card:hover {
+  border-bottom: 5px solid teal;
+}
+.admin_card:hover {
+  border-bottom: 5px solid teal;
+}
+.security_card:hover {
+  border-bottom: 5px solid teal;
+}
+.outings_card:hover {
+  border-bottom: 5px solid teal;
+}
+.leaves_card:hover {
+  border-bottom: 5px solid teal;
+}
+.dark-mode {
+	filter: invert(1) hue-rotate(180deg);
+}
